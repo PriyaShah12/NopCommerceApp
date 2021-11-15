@@ -2,9 +2,6 @@ import time
 from selenium.webdriver.support.ui import Select
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-
-
-
 class AddCustomer:
     menusearchicon_xpath="//i[@class='fa fa-bars']"
     txtbox_email_xpath="//input[@id='Email']"
