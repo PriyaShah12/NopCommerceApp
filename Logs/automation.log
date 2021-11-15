@@ -1,0 +1,290 @@
+2021-10-29 10:30:28 :INFO :*******************Test_001_login******************************
+2021-10-29 10:30:28 :INFO :*****************verifying home page title *************************
+2021-10-29 10:30:43 :INFO :**************Home page Test case passed***********************
+2021-10-29 10:30:51 :INFO :***************Test login started*******************
+2021-10-29 13:44:15 :INFO :*******************Test_001_login******************************
+2021-10-29 13:44:15 :INFO :*****************verifying home page title *************************
+2021-10-29 13:44:19 :INFO :**************Home page Test case passed***********************
+2021-10-29 13:44:22 :INFO :***************Test login started*******************
+2021-11-01 12:21:55 :INFO :*******************Test_ddt_001_login******************************
+2021-11-01 12:21:55 :INFO :*****************verifying home page title *************************
+2021-11-01 12:21:58 :INFO :**************Home page Test case passed***********************
+2021-11-01 12:22:03 :INFO :***************Test login_DDT started*******************
+2021-11-01 12:22:56 :INFO :*******************Test_ddt_001_login******************************
+2021-11-01 12:22:56 :INFO :*****************verifying home page title *************************
+2021-11-01 12:23:06 :INFO :**************Home page Test case passed***********************
+2021-11-01 12:23:12 :INFO :***************Test login_DDT started*******************
+2021-11-01 12:27:12 :INFO :*******************Test_ddt_001_login******************************
+2021-11-01 12:27:12 :INFO :*****************verifying home page title *************************
+2021-11-01 12:27:20 :INFO :**************Home page Test case passed***********************
+2021-11-01 12:27:23 :INFO :***************Test login_DDT started*******************
+2021-11-01 12:32:58 :INFO :*******************Test_ddt_001_login******************************
+2021-11-01 12:32:58 :INFO :*****************verifying home page title *************************
+2021-11-01 12:33:14 :INFO :**************Home page Test case passed***********************
+2021-11-01 12:33:17 :INFO :***************Test login_DDT started*******************
+2021-11-01 12:50:18 :INFO :*******************Test_ddt_001_login******************************
+2021-11-01 12:50:18 :INFO :*****************verifying home page title *************************
+2021-11-01 12:50:22 :INFO :**************Home page Test case passed***********************
+2021-11-01 12:50:26 :INFO :***************Test login_DDT started*******************
+2021-11-01 12:54:05 :INFO :*******************Test_ddt_001_login******************************
+2021-11-01 12:54:05 :INFO :*****************verifying home page title *************************
+2021-11-01 12:54:17 :INFO :**************Home page Test case passed***********************
+2021-11-01 12:54:19 :INFO :***************Test login_DDT started*******************
+2021-11-01 12:55:24 :INFO :*******************Test_ddt_001_login******************************
+2021-11-01 12:55:24 :INFO :*****************verifying home page title *************************
+2021-11-01 12:55:29 :INFO :**************Home page Test case passed***********************
+2021-11-01 12:55:31 :INFO :***************Test login_DDT started*******************
+2021-11-01 13:00:11 :INFO :*******************Test_ddt_001_login******************************
+2021-11-01 13:00:11 :INFO :*****************verifying home page title *************************
+2021-11-01 13:00:19 :INFO :**************Home page Test case passed***********************
+2021-11-01 13:00:21 :INFO :***************Test login_DDT started*******************
+2021-11-03 12:38:46 :INFO :*******************Test_ddt_001_login******************************
+2021-11-03 12:38:46 :INFO :*****************verifying home page title *************************
+2021-11-03 12:38:56 :INFO :**************Home page Test case passed***********************
+2021-11-03 12:38:58 :INFO :***************Test login_DDT started*******************
+2021-11-03 12:39:10 :INFO :Test case failed
+2021-11-03 12:41:54 :INFO :*******************Test_ddt_001_login******************************
+2021-11-03 12:41:54 :INFO :*****************verifying home page title *************************
+2021-11-03 12:42:03 :INFO :**************Home page Test case passed***********************
+2021-11-03 12:42:05 :INFO :***************Test login_DDT started*******************
+2021-11-03 12:42:17 :INFO :Test case failed
+2021-11-03 12:42:19 :INFO :Test case passed
+2021-11-03 12:47:31 :INFO :*******************Test_ddt_001_login******************************
+2021-11-03 12:47:31 :INFO :*****************verifying home page title *************************
+2021-11-03 12:47:35 :ERROR :****************Home Page test case failed**************************
+2021-11-03 12:47:39 :INFO :***************Test login_DDT started*******************
+2021-11-03 12:48:18 :INFO :Test case failed
+2021-11-03 12:48:20 :INFO :Test case passed
+2021-11-03 13:13:46 :INFO :*******************Test_ddt_001_login******************************
+2021-11-03 13:13:46 :INFO :*****************verifying home page title *************************
+2021-11-03 13:13:55 :INFO :**************Home page Test case passed***********************
+2021-11-03 13:13:58 :INFO :***************Test login_DDT started*******************
+2021-11-03 13:14:16 :INFO :Test case failed
+2021-11-03 13:14:22 :INFO :Test case passed
+2021-11-03 13:25:06 :INFO :*******************Test_ddt_001_login******************************
+2021-11-03 13:25:06 :INFO :*****************verifying home page title *************************
+2021-11-03 13:25:15 :INFO :**************Home page Test case passed***********************
+2021-11-03 13:25:19 :INFO :***************Test login_DDT started*******************
+2021-11-03 13:25:31 :INFO :Test case failed
+2021-11-03 13:25:37 :INFO :Test case passed
+2021-11-05 13:56:48 :INFO :*******************Test_ddt_001_login******************************
+2021-11-05 13:56:48 :INFO :*****************verifying home page title *************************
+2021-11-05 13:56:56 :INFO :**************Home page Test case passed***********************
+2021-11-05 13:57:00 :INFO :***************Test login_DDT started*******************
+2021-11-05 13:57:18 :INFO :Test case failed
+2021-11-05 13:57:26 :INFO :Test case passed
+2021-11-05 13:58:34 :INFO :*******************Test_ddt_001_login******************************
+2021-11-05 13:58:34 :INFO :*****************verifying home page title *************************
+2021-11-05 13:58:44 :INFO :**************Home page Test case passed***********************
+2021-11-05 13:58:52 :INFO :***************Test login_DDT started*******************
+2021-11-05 13:59:07 :INFO :Test case failed
+2021-11-05 13:59:14 :INFO :Test case passed
+2021-11-05 14:01:19 :INFO :*******************Test_ddt_001_login******************************
+2021-11-05 14:01:19 :INFO :*****************verifying home page title *************************
+2021-11-05 14:01:28 :INFO :**************Home page Test case passed***********************
+2021-11-05 14:01:30 :INFO :***************Test login_DDT started*******************
+2021-11-05 14:01:48 :INFO :Test case failed
+2021-11-05 14:01:55 :INFO :Test case passed
+2021-11-05 14:02:00 :INFO :Test case passed
+2021-11-05 14:02:06 :INFO :Test case passed
+2021-11-05 14:02:06 :INFO :DDT Failed
+2021-11-05 14:16:45 :INFO :*******************Test_ddt_001_login******************************
+2021-11-05 14:16:45 :INFO :*****************verifying home page title *************************
+2021-11-05 14:16:53 :INFO :**************Home page Test case passed***********************
+2021-11-05 14:16:57 :INFO :***************Test login_DDT started*******************
+2021-11-05 14:17:09 :INFO :Test case failed
+2021-11-05 14:24:43 :INFO :*******************Test_ddt_001_login******************************
+2021-11-05 14:24:43 :INFO :*****************verifying home page title *************************
+2021-11-05 14:24:48 :INFO :**************Home page Test case passed***********************
+2021-11-05 14:24:50 :INFO :***************Test login_DDT started*******************
+2021-11-05 14:25:03 :INFO :Test case failed
+2021-11-05 14:25:03 :INFO :DDT Failed
+2021-11-08 09:43:12 :INFO :*******************Test_ddt_001_login******************************
+2021-11-08 09:43:12 :INFO :*****************verifying home page title *************************
+2021-11-08 09:43:21 :INFO :**************Home page Test case passed***********************
+2021-11-08 09:43:26 :INFO :***************Test login_DDT started*******************
+2021-11-08 09:43:40 :INFO :Test case failed
+2021-11-08 09:43:40 :INFO :DDT Failed
+2021-11-11 13:11:27 :INFO :********Test_003_addcustomer*****************
+2021-11-11 13:11:34 :INFO :**************login successful****************
+2021-11-11 13:11:34 :INFO :**********starting add customer test case***************
+2021-11-11 13:34:09 :INFO :********Test_003_addcustomer*****************
+2021-11-11 13:34:16 :INFO :**************login successful****************
+2021-11-11 13:34:16 :INFO :**********starting add customer test case***************
+2021-11-11 14:05:06 :INFO :********Test_003_addcustomer*****************
+2021-11-11 14:05:14 :INFO :**************login successful****************
+2021-11-11 14:05:14 :INFO :**********starting add customer test case***************
+2021-11-11 14:14:49 :INFO :********Test_003_addcustomer*****************
+2021-11-11 14:14:56 :INFO :**************login successful****************
+2021-11-11 14:14:56 :INFO :**********starting add customer test case***************
+2021-11-11 14:38:53 :INFO :********Test_003_addcustomer*****************
+2021-11-11 14:39:01 :INFO :**************login successful****************
+2021-11-11 14:39:01 :INFO :**********starting add customer test case***************
+2021-11-11 14:39:04 :INFO :*******providing customer info********
+2021-11-11 14:40:34 :INFO :********Test_003_addcustomer*****************
+2021-11-11 14:40:42 :INFO :**************login successful****************
+2021-11-11 14:40:42 :INFO :**********starting add customer test case***************
+2021-11-11 14:40:45 :INFO :*******providing customer info********
+2021-11-11 14:45:00 :INFO :********Test_003_addcustomer*****************
+2021-11-11 14:45:08 :INFO :**************login successful****************
+2021-11-11 14:45:08 :INFO :**********starting add customer test case***************
+2021-11-11 14:45:10 :INFO :*******providing customer info********
+2021-11-11 14:53:09 :INFO :********Test_003_addcustomer*****************
+2021-11-11 14:53:17 :INFO :**************login successful****************
+2021-11-11 14:53:17 :INFO :**********starting add customer test case***************
+2021-11-11 14:53:20 :INFO :*******providing customer info********
+2021-11-11 15:01:33 :INFO :********Test_003_addcustomer*****************
+2021-11-11 15:01:39 :INFO :**************login successful****************
+2021-11-11 15:01:39 :INFO :**********starting add customer test case***************
+2021-11-11 15:01:42 :INFO :*******providing customer info********
+2021-11-11 15:07:14 :INFO :********Test_003_addcustomer*****************
+2021-11-11 15:07:22 :INFO :**************login successful****************
+2021-11-11 15:07:22 :INFO :**********starting add customer test case***************
+2021-11-11 15:07:24 :INFO :*******providing customer info********
+2021-11-11 15:08:34 :INFO :********Test_003_addcustomer*****************
+2021-11-11 15:08:43 :INFO :**************login successful****************
+2021-11-11 15:08:43 :INFO :**********starting add customer test case***************
+2021-11-11 15:08:45 :INFO :*******providing customer info********
+2021-11-11 15:58:52 :INFO :********Test_003_addcustomer*****************
+2021-11-11 15:59:01 :INFO :**************login successful****************
+2021-11-11 15:59:01 :INFO :**********starting add customer test case***************
+2021-11-11 15:59:07 :INFO :*******providing customer info********
+2021-11-11 16:00:02 :INFO :********Test_003_addcustomer*****************
+2021-11-11 16:00:12 :INFO :**************login successful****************
+2021-11-11 16:00:12 :INFO :**********starting add customer test case***************
+2021-11-11 16:00:15 :INFO :*******providing customer info********
+2021-11-11 16:06:04 :INFO :********Test_003_addcustomer*****************
+2021-11-11 16:06:44 :INFO :**************login successful****************
+2021-11-11 16:06:44 :INFO :**********starting add customer test case***************
+2021-11-11 16:06:51 :INFO :*******providing customer info********
+2021-11-11 16:09:09 :INFO :********Test_003_addcustomer*****************
+2021-11-11 16:09:18 :INFO :**************login successful****************
+2021-11-11 16:09:18 :INFO :**********starting add customer test case***************
+2021-11-11 16:09:20 :INFO :*******providing customer info********
+2021-11-11 16:10:33 :INFO :********Test_003_addcustomer*****************
+2021-11-11 16:10:40 :INFO :**************login successful****************
+2021-11-11 16:10:40 :INFO :**********starting add customer test case***************
+2021-11-11 16:10:43 :INFO :*******providing customer info********
+2021-11-11 16:10:47 :INFO :**********Customer added successfully*********************
+2021-11-11 16:10:48 :INFO :*************Ending Add customer test*******************
+2021-11-12 09:08:56 :INFO :*************Test Search customer by email_004*******************
+2021-11-12 09:09:09 :INFO :*********Login Successful****************
+2021-11-12 09:09:47 :INFO :*************Test Search customer by email_004*******************
+2021-11-12 09:10:01 :INFO :*********Login Successful****************
+2021-11-12 09:27:54 :INFO :*************Test Search customer by email_004*******************
+2021-11-12 09:28:12 :INFO :*********Login Successful****************
+2021-11-12 09:34:54 :INFO :*************Test Search customer by email_004*******************
+2021-11-12 09:35:08 :INFO :*********Login Successful****************
+2021-11-12 12:09:37 :INFO :*************Test Search customer by email_004*******************
+2021-11-12 12:10:11 :INFO :*********Login Successful****************
+2021-11-12 12:13:03 :INFO :*************Test Search customer by email_004*******************
+2021-11-12 12:13:21 :INFO :*********Login Successful****************
+2021-11-12 13:42:17 :INFO :*************Test Search customer by email_004*******************
+2021-11-12 13:42:31 :INFO :*********Login Successful****************
+2021-11-12 13:42:33 :INFO :******Searching customer by emailID*****
+2021-11-12 14:16:45 :INFO :*************Test Search customer by email_004*******************
+2021-11-12 14:17:00 :INFO :*********Login Successful****************
+2021-11-12 14:17:02 :INFO :******Searching customer by emailID*****
+2021-11-12 14:28:06 :INFO :*************Test Search customer by name_005*******************
+2021-11-12 14:28:28 :INFO :*********Login Successful****************
+2021-11-12 14:28:30 :INFO :******Searching customer by name*****
+2021-11-12 14:28:57 :INFO :*************Test Search customer by name_005*******************
+2021-11-12 14:29:11 :INFO :*********Login Successful****************
+2021-11-12 14:29:13 :INFO :******Searching customer by name*****
+2021-11-12 14:29:58 :INFO :*************Test Search customer by name_005*******************
+2021-11-12 14:30:14 :INFO :*********Login Successful****************
+2021-11-12 14:30:15 :INFO :******Searching customer by name*****
+2021-11-12 15:24:18 :INFO :*************Test Search customer by email_004*******************
+2021-11-12 15:24:32 :INFO :*********Login Successful****************
+2021-11-12 15:24:33 :INFO :******Searching customer by emailID*****
+2021-11-12 15:26:13 :INFO :*************Test Search customer by email_004*******************
+2021-11-12 15:26:27 :INFO :*********Login Successful****************
+2021-11-12 15:26:28 :INFO :******Searching customer by emailID*****
+2021-11-12 15:26:28 :INFO :******clicking on search***************
+2021-11-12 15:52:02 :INFO :*************Test Search customer by email_004*******************
+2021-11-12 15:52:16 :INFO :*********Login Successful****************
+2021-11-12 15:52:19 :INFO :******Searching customer by emailID*****
+2021-11-12 15:52:19 :INFO :******clicking on search***************
+2021-11-12 15:52:22 :INFO :***********TC_searchcustomerbyemail_004 finished
+2021-11-12 15:53:46 :INFO :*************Test Search customer by name_005*******************
+2021-11-12 15:54:00 :INFO :*********Login Successful****************
+2021-11-12 15:54:02 :INFO :******Searching customer by name*****
+2021-11-12 15:54:05 :INFO :***********TC_searchcustomerbyname_005 finished
+2021-11-12 17:53:58 :INFO :********Test_003_addcustomer*****************
+2021-11-12 17:54:25 :INFO :**************login successful****************
+2021-11-12 17:54:25 :INFO :**********starting add customer test case***************
+2021-11-12 17:54:41 :INFO :*******providing customer info********
+2021-11-12 17:54:57 :INFO :**********Customer added successfully*********************
+2021-11-12 17:54:58 :INFO :*************Ending Add customer test*******************
+2021-11-12 17:55:08 :INFO :***************Test login started*******************
+2021-11-12 18:01:12 :INFO :********Test_003_addcustomer*****************
+2021-11-12 18:01:38 :INFO :**************login successful****************
+2021-11-12 18:01:38 :INFO :**********starting add customer test case***************
+2021-11-12 18:01:53 :INFO :*******providing customer info********
+2021-11-12 18:02:11 :INFO :**********Customer added successfully*********************
+2021-11-12 18:02:13 :INFO :*************Ending Add customer test*******************
+2021-11-12 18:02:20 :INFO :***************Test login started*******************
+2021-11-12 18:02:46 :ERROR :****************Test Login failed***********************
+2021-11-12 18:09:37 :INFO :********Test_003_addcustomer*****************
+2021-11-12 18:10:02 :INFO :**************login successful****************
+2021-11-12 18:10:02 :INFO :**********starting add customer test case***************
+2021-11-12 18:10:19 :INFO :*******providing customer info********
+2021-11-12 18:10:37 :INFO :**********Customer added successfully*********************
+2021-11-12 18:10:42 :INFO :*************Ending Add customer test*******************
+2021-11-12 18:10:49 :INFO :***************Test login started*******************
+2021-11-12 18:11:17 :ERROR :****************Test Login failed***********************
+2021-11-12 18:14:43 :INFO :********Test_003_addcustomer*****************
+2021-11-12 18:15:15 :INFO :**************login successful****************
+2021-11-12 18:15:15 :INFO :**********starting add customer test case***************
+2021-11-12 18:15:30 :INFO :*******providing customer info********
+2021-11-12 18:15:49 :INFO :**********Customer added successfully*********************
+2021-11-12 18:15:51 :INFO :*************Ending Add customer test*******************
+2021-11-12 18:15:59 :INFO :***************Test login started*******************
+2021-11-12 18:16:24 :INFO :*************Test login passed***************
+2021-11-15 09:30:13 :INFO :********Test_003_addcustomer*****************
+2021-11-15 09:30:41 :INFO :**************login successful****************
+2021-11-15 09:30:41 :INFO :**********starting add customer test case***************
+2021-11-15 09:30:56 :INFO :*******providing customer info********
+2021-11-15 09:31:17 :INFO :**********Customer added successfully*********************
+2021-11-15 09:31:25 :INFO :*************Ending Add customer test*******************
+2021-11-15 09:31:34 :INFO :***************Test login started*******************
+2021-11-15 09:32:25 :INFO :*************Test login passed***************
+2021-11-15 09:35:06 :INFO :********Test_003_addcustomer*****************
+2021-11-15 09:35:35 :INFO :**************login successful****************
+2021-11-15 09:35:35 :INFO :**********starting add customer test case***************
+2021-11-15 09:35:55 :INFO :*******providing customer info********
+2021-11-15 09:36:18 :INFO :**********Customer added successfully*********************
+2021-11-15 09:36:20 :INFO :*************Ending Add customer test*******************
+2021-11-15 09:36:27 :INFO :***************Test login started*******************
+2021-11-15 09:37:04 :INFO :*************Test login passed***************
+2021-11-15 10:08:04 :INFO :********Test_003_addcustomer*****************
+2021-11-15 10:08:25 :INFO :**************login successful****************
+2021-11-15 10:08:25 :INFO :**********starting add customer test case***************
+2021-11-15 10:08:30 :INFO :*******providing customer info********
+2021-11-15 10:08:34 :INFO :**********Customer added successfully*********************
+2021-11-15 10:08:35 :INFO :*************Ending Add customer test*******************
+2021-11-15 10:08:38 :INFO :***************Test login started*******************
+2021-11-15 10:09:16 :INFO :*************Test login passed***************
+2021-11-15 10:10:29 :INFO :********Test_003_addcustomer*****************
+2021-11-15 10:10:59 :INFO :**************login successful****************
+2021-11-15 10:10:59 :INFO :**********starting add customer test case***************
+2021-11-15 10:11:01 :INFO :*******providing customer info********
+2021-11-15 10:11:06 :INFO :**********Customer added successfully*********************
+2021-11-15 10:11:13 :INFO :*************Ending Add customer test*******************
+2021-11-15 10:11:18 :INFO :*******************Test_001_login******************************
+2021-11-15 10:11:18 :INFO :*****************verifying home page title *************************
+2021-11-15 10:11:36 :INFO :**************Home page Test case passed***********************
+2021-11-15 10:11:38 :INFO :***************Test login started*******************
+2021-11-15 10:12:01 :INFO :*************Test login passed***************
+2021-11-15 10:12:07 :INFO :*******************Test_ddt_001_login******************************
+2021-11-15 10:12:07 :INFO :*****************verifying home page title *************************
+2021-11-15 10:12:21 :INFO :**************Home page Test case passed***********************
+2021-11-15 10:12:26 :INFO :*************Test Search customer by email_004*******************
+2021-11-15 10:12:59 :INFO :*********Login Successful****************
+2021-11-15 10:13:02 :INFO :******Searching customer by emailID*****
+2021-11-15 10:13:03 :INFO :******clicking on search***************
+2021-11-15 10:13:06 :INFO :***********TC_searchcustomerbyemail_004 finished
+2021-11-15 10:13:14 :INFO :*************Test Search customer by name_005*******************
+2021-11-15 10:13:33 :INFO :*********Login Successful****************
+2021-11-15 10:13:36 :INFO :******Searching customer by name*****
+2021-11-15 10:13:40 :INFO :***********TC_searchcustomerbyname_005 finished
