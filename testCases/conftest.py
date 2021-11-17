@@ -6,12 +6,12 @@ from selenium.webdriver.chrome.service import Service
 @pytest.fixture()
 def setup(browser):
     if browser=='Chrome':
-        s = Service("C:\Python_durgasir\lib/chromedriver.exe")
+        s = Service("driver/chromedriver.exe")
         driver=webdriver.Chrome(service=s)
     elif browser =='Firefox':
         driver=webdriver.Firefox()
     else:
-        s = Service("C:\Python_durgasir\lib/chromedriver.exe")
+        s = Service("driver/chromedriver.exe")
         driver=webdriver.Chrome(service=s)
     return driver
 
