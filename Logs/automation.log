@@ -288,3 +288,122 @@
 2021-11-15 10:13:33 :INFO :*********Login Successful****************
 2021-11-15 10:13:36 :INFO :******Searching customer by name*****
 2021-11-15 10:13:40 :INFO :***********TC_searchcustomerbyname_005 finished
+2021-11-17 14:27:37 :INFO :*******************Test_001_login******************************
+2021-11-17 14:27:37 :INFO :*****************verifying home page title *************************
+2021-11-17 14:27:42 :INFO :**************Home page Test case passed***********************
+2021-11-17 14:27:44 :INFO :***************Test login started*******************
+2021-11-17 14:27:53 :INFO :*************Test login passed***************
+2021-11-22 14:37:25 :INFO :*******************Test_ddt_001_login******************************
+2021-11-22 14:37:25 :INFO :*****************verifying home page title *************************
+2021-11-22 14:37:33 :INFO :**************Home page Test case passed***********************
+2021-11-22 14:37:35 :INFO :***************Test login_DDT started*******************
+2021-11-22 14:37:49 :INFO :Test case failed
+2021-11-22 14:37:49 :INFO :DDT Failed
+2021-11-22 14:38:59 :INFO :*******************Test_ddt_001_login******************************
+2021-11-22 14:38:59 :INFO :*****************verifying home page title *************************
+2021-11-22 14:39:05 :INFO :**************Home page Test case passed***********************
+2021-11-22 14:39:07 :INFO :***************Test login_DDT started*******************
+2021-11-22 14:39:27 :INFO :Test case passed
+2021-11-22 14:39:29 :INFO :DDT Case passed
+2021-11-23 09:59:18 :INFO :*******************Test_001_login******************************
+2021-11-23 09:59:19 :INFO :*****************verifying home page title *************************
+2021-11-23 09:59:23 :INFO :**************Home page Test case passed***********************
+2021-11-23 09:59:26 :INFO :***************Test login started*******************
+2021-11-23 09:59:35 :INFO :*************Test login passed***************
+2021-11-23 10:14:54 :INFO :*******Test_order_006**************
+2021-11-23 10:15:15 :INFO :*******Login Successful******************
+2021-11-23 10:15:15 :INFO :*****************Starting search order test****************
+2021-11-23 11:06:23 :INFO :*******Test_order_006**************
+2021-11-23 11:06:33 :INFO :*******Login Successful******************
+2021-11-23 11:06:33 :INFO :*****************Starting search order test****************
+2021-11-23 11:12:18 :INFO :*******Test_order_006**************
+2021-11-23 11:12:26 :INFO :*******Login Successful******************
+2021-11-23 11:12:26 :INFO :*****************Starting search order test****************
+2021-11-23 11:16:22 :INFO :*******Test_order_006**************
+2021-11-23 11:16:36 :INFO :*******Login Successful******************
+2021-11-23 11:16:36 :INFO :*****************Starting search order test****************
+2021-12-08 13:55:24 :INFO :
+
+2021-12-08 13:55:24 :INFO :====== WebDriver manager ======
+2021-12-08 13:55:27 :INFO :Current firefox version is 95.0
+2021-12-08 13:55:27 :INFO :Get LATEST geckodriver version for 95.0 firefox
+2021-12-08 13:55:28 :INFO :Driver [C:\Users\prsha\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+2021-12-08 13:56:06 :INFO :*******************Test_001_login******************************
+2021-12-08 13:56:06 :INFO :*****************verifying home page title *************************
+2021-12-08 13:56:23 :INFO :**************Home page Test case passed***********************
+2021-12-08 13:56:23 :INFO :
+
+2021-12-08 13:56:23 :INFO :====== WebDriver manager ======
+2021-12-08 13:56:27 :INFO :Current firefox version is 95.0
+2021-12-08 13:56:27 :INFO :Get LATEST geckodriver version for 95.0 firefox
+2021-12-08 13:56:27 :INFO :Driver [C:\Users\prsha\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+2021-12-08 13:57:02 :INFO :***************Test login started*******************
+2021-12-08 13:57:28 :INFO :*************Test login passed***************
+2021-12-08 13:59:26 :INFO :
+
+2021-12-08 13:59:26 :INFO :
+
+2021-12-08 13:59:26 :INFO :====== WebDriver manager ======
+2021-12-08 13:59:26 :INFO :====== WebDriver manager ======
+2021-12-08 13:59:26 :INFO :Current google-chrome version is 96.0.4664
+2021-12-08 13:59:26 :INFO :Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-08 13:59:26 :INFO :Current google-chrome version is 96.0.4664
+2021-12-08 13:59:26 :INFO :Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-08 13:59:27 :INFO :Driver [C:\Users\prsha\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-08 13:59:27 :INFO :Driver [C:\Users\prsha\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-08 13:59:37 :INFO :*******************Test_001_login******************************
+2021-12-08 13:59:37 :INFO :*****************verifying home page title *************************
+2021-12-08 13:59:41 :INFO :***************Test login started*******************
+2021-12-08 14:00:24 :INFO :**************Home page Test case passed***********************
+2021-12-08 14:00:24 :INFO :*************Test login passed***************
+2021-12-08 14:28:54 :INFO :
+
+2021-12-08 14:28:54 :INFO :
+
+2021-12-08 14:28:54 :INFO :====== WebDriver manager ======
+2021-12-08 14:28:54 :INFO :====== WebDriver manager ======
+2021-12-08 14:28:55 :INFO :Current google-chrome version is 96.0.4664
+2021-12-08 14:28:55 :INFO :Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-08 14:28:55 :INFO :Current google-chrome version is 96.0.4664
+2021-12-08 14:28:55 :INFO :Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-08 14:28:56 :INFO :Driver [C:\Users\prsha\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-08 14:28:56 :INFO :Driver [C:\Users\prsha\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-08 14:29:07 :INFO :***************Test login started*******************
+2021-12-08 14:29:10 :INFO :*******************Test_001_login******************************
+2021-12-08 14:29:10 :INFO :*****************verifying home page title *************************
+2021-12-08 14:29:41 :INFO :*************Test login passed***************
+2021-12-08 14:29:43 :INFO :**************Home page Test case passed***********************
+2021-12-08 17:02:09 :INFO :
+
+2021-12-08 17:02:09 :INFO :
+
+2021-12-08 17:02:09 :INFO :====== WebDriver manager ======
+2021-12-08 17:02:09 :INFO :====== WebDriver manager ======
+2021-12-08 17:02:10 :INFO :Current google-chrome version is 96.0.4664
+2021-12-08 17:02:10 :INFO :Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-08 17:02:10 :INFO :Current google-chrome version is 96.0.4664
+2021-12-08 17:02:10 :INFO :Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-08 17:02:10 :INFO :Driver [C:\Users\prsha\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-08 17:02:10 :INFO :Driver [C:\Users\prsha\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-08 17:02:22 :INFO :*******************Test_001_login******************************
+2021-12-08 17:02:22 :INFO :*****************verifying home page title *************************
+2021-12-08 17:02:24 :INFO :***************Test login started*******************
+2021-12-08 17:02:56 :INFO :*************Test login passed***************
+2021-12-08 17:02:57 :INFO :**************Home page Test case passed***********************
+2021-12-08 17:10:14 :INFO :
+
+2021-12-08 17:10:14 :INFO :
+
+2021-12-08 17:10:14 :INFO :====== WebDriver manager ======
+2021-12-08 17:10:14 :INFO :====== WebDriver manager ======
+2021-12-08 17:10:14 :INFO :Current google-chrome version is 96.0.4664
+2021-12-08 17:10:14 :INFO :Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-08 17:10:14 :INFO :Current google-chrome version is 96.0.4664
+2021-12-08 17:10:14 :INFO :Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-08 17:10:15 :INFO :Driver [C:\Users\prsha\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-08 17:10:15 :INFO :Driver [C:\Users\prsha\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+2021-12-08 17:10:27 :INFO :*******************Test_001_login******************************
+2021-12-08 17:10:27 :INFO :*****************verifying home page title *************************
+2021-12-08 17:10:29 :INFO :***************Test login started*******************
+2021-12-08 17:11:13 :INFO :**************Home page Test case passed***********************
+2021-12-08 17:11:16 :INFO :*************Test login passed***************

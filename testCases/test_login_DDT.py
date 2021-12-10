@@ -48,7 +48,7 @@ class Test_001_login:
             self.lp.clickLogin()
             time.sleep(5)
             act_title = self.driver.title
-            exp_title = "Dashboard / nopCommerce administration123"
+            exp_title = "Dashboard / nopCommerce administration"
 
             if act_title == exp_title:
                 if self.exp == "pass":
