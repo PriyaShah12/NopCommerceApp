@@ -9,4 +9,4 @@ from webdriver_manager.firefox import GeckoDriverManager
 s=Service(executable_path=GeckoDriverManager().install())
 driver=webdriver.Firefox(service=s)
 driver.get("https://www.google.com/")
-driver.find_element(By.NAME,"q").send_keys("Mukesh Otwani")
+driver.find_element(By.NAME,"q").send_keys("ABC")
