@@ -3,6 +3,7 @@ import pytest
 from pageObject.LoginPage import Login
 from utilities.readproperties import configRead
 from utilities.customLogger import LogGen
+import time
 
 class Test_001_login:
     base_url=configRead.ReadUrl()
@@ -28,8 +29,8 @@ class Test_001_login:
             self.logger.error("****************Home Page test case failed**************************")
 
             assert False
-    @pytest.mark.sanity
-    @pytest.mark.regression
+    # @pytest.mark.sanity
+    # @pytest.mark.regression
     def test_login(self,setup):
         self.logger.info("***************Test login started*******************")
         self.driver=setup
@@ -38,6 +39,7 @@ class Test_001_login:
         self.lp.setUserName(self.username)
         self.lp.setPassword(self.password)
         self.lp.clickLogin()
+        time.sleep(6)
         act_title=self.driver.title
         if act_title=="Dashboard / nopCommerce administration":
             assert True
@@ -48,5 +50,5 @@ class Test_001_login:
 
             self.logger.info("****************Test Login failed***********************")
             assert False
-        self.driver.close()
+
 
