@@ -39,7 +39,9 @@ class Test_001_login:
         self.lp.setUserName(self.username)
         self.lp.setPassword(self.password)
         self.lp.clickLogin()
+
         time.sleep(6)
+
         act_title=self.driver.title
         if act_title=="Dashboard / nopCommerce administration":
             assert True
