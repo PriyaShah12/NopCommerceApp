@@ -407,3 +407,19 @@
 2021-12-08 17:10:29 :INFO :***************Test login started*******************
 2021-12-08 17:11:13 :INFO :**************Home page Test case passed***********************
 2021-12-08 17:11:16 :INFO :*************Test login passed***************
+2022-11-17 14:56:34 :INFO :====== WebDriver manager ======
+2022-11-17 14:56:35 :INFO :Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-11-17 14:56:41 :INFO :There is no [win32] chromedriver for browser 106.0.5249 in cache
+2022-11-17 14:56:41 :INFO :About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-11-17 14:56:43 :INFO :Driver has been saved in cache [C:\Users\prsha\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-11-17 14:56:47 :INFO :********Test_003_addcustomer*****************
+2022-11-17 14:56:51 :INFO :**************login successful****************
+2022-11-17 14:56:51 :INFO :**********starting add customer test case***************
+2022-11-17 14:56:53 :INFO :*******providing customer info********
+2022-11-17 14:56:58 :INFO :**********Customer added successfully*********************
+2022-11-17 14:56:58 :INFO :*************Ending Add customer test*******************
+2022-11-17 14:56:58 :INFO :====== WebDriver manager ======
+2022-11-17 14:56:59 :INFO :Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-11-17 14:57:01 :INFO :Driver [C:\Users\prsha\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-11-17 14:57:02 :INFO :***************Test login started*******************
+2022-11-17 14:57:07 :INFO :*************Test login passed***************

@@ -2,7 +2,7 @@ from selenium import webdriver
 import pytest
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
-from webdriver_manager.driver import OperaDriver
+# from webdriver_manager.driver import OperaDriver
 from webdriver_manager.firefox import GeckoDriverManager
 from webdriver_manager.microsoft import IEDriverManager, EdgeChromiumDriverManager
 
@@ -18,9 +18,9 @@ def setup(browser):
     elif browser=="Edge":
         s=Service(EdgeChromiumDriverManager().install())
         driver= webdriver.Ie(service=s)
-    elif browser == "Opera":
-        s= Service(executable_path=OperaDriver().install())
-        driver= webdriver.Opera(service_args=s)
+    # elif browser == "Opera":
+    #     s= Service(executable_path=OperaDriver().install())
+    #     driver= webdriver.Opera(service_args=s)
     else:
         s = Service(IEDriverManager().install())
         driver = webdriver.Chrome(service=s)

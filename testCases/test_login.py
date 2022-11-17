@@ -48,5 +48,5 @@ class Test_001_login:
 
             self.logger.info("****************Test Login failed***********************")
             assert False
-            self.driver.close()
+        self.driver.close()
 
