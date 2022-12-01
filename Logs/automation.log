@@ -423,3 +423,17 @@
 2022-11-17 14:57:01 :INFO :Driver [C:\Users\prsha\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
 2022-11-17 14:57:02 :INFO :***************Test login started*******************
 2022-11-17 14:57:07 :INFO :*************Test login passed***************
+2022-11-17 15:26:25 :INFO :====== WebDriver manager ======
+2022-11-17 15:26:26 :INFO :Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-11-17 15:26:27 :INFO :Driver [C:\Users\prsha\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-11-17 15:26:29 :INFO :********Test_003_addcustomer*****************
+2022-11-17 15:26:34 :INFO :**************login successful****************
+2022-11-17 15:26:34 :INFO :**********starting add customer test case***************
+2022-11-17 15:26:36 :INFO :*******providing customer info********
+2022-11-17 15:26:41 :INFO :**********Customer added successfully*********************
+2022-11-17 15:26:41 :INFO :*************Ending Add customer test*******************
+2022-11-17 15:26:41 :INFO :====== WebDriver manager ======
+2022-11-17 15:26:42 :INFO :Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-11-17 15:26:43 :INFO :Driver [C:\Users\prsha\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-11-17 15:26:45 :INFO :***************Test login started*******************
+2022-11-17 15:26:56 :INFO :*************Test login passed***************

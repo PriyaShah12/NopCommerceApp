@@ -29,8 +29,8 @@ class Test_001_login:
             self.logger.error("****************Home Page test case failed**************************")
 
             assert False
-    # @pytest.mark.sanity
-    # @pytest.mark.regression
+    @pytest.mark.sanity
+    @pytest.mark.regression
     def test_login(self,setup):
         self.logger.info("***************Test login started*******************")
         self.driver=setup
