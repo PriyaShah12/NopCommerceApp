@@ -10,7 +10,7 @@ class Test_001_login:
     base_url=configRead.ReadUrl()
     path=".//TestData/DDT_testsheet.xlsx"
     logger= LogGen.loggen()
-    # @pytest.mark.regression
+    @pytest.mark.regression
     def test_homepagetitle_ddt(self,setup):
         self.logger.info("*******************Test_ddt_001_login******************************")
         self.logger.info("*****************verifying home page title *************************")

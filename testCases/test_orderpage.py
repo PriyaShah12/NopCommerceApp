@@ -13,7 +13,7 @@ class Test_searchorder_006:
     url=configRead.ReadUrl()
     logger=LogGen.loggen()
 
-
+    @pytest.mark.skip(reason="Run Later")
     def test_ordersearch(self,setup):
 
         self.logger.info("*******Test_order_006**************")

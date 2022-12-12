@@ -9,9 +9,8 @@ from webdriver_manager.microsoft import IEDriverManager, EdgeChromiumDriverManag
 @pytest.fixture()
 def setup(browser):
     if browser=='Chrome':
-        print("############################")
-        s= Service(executable_path="C:\\Priya_Dev\\chromedriver\\chromedriver.exe")
-        # s = Service(ChromeDriverManager().install())
+        # s= Service(executable_path="C:\\Priya_Dev\\chromedriver\\chromedriver.exe")
+        s = Service(ChromeDriverManager().install())
         driver = webdriver.Chrome(service=s)
     elif browser =='Firefox':
         s = Service(executable_path=GeckoDriverManager().install())
@@ -19,9 +18,11 @@ def setup(browser):
     elif browser=="Edge":
         s=Service(EdgeChromiumDriverManager().install())
         driver= webdriver.Ie(service=s)
-
-    else:
+    elif browser == "IE":
         s = Service(IEDriverManager().install())
+        driver = webdriver.Chrome(service=s)
+    else:
+        s = Service(ChromeDriverManager().install())
         driver = webdriver.Chrome(service=s)
     return driver
 

@@ -716,3 +716,39 @@
 2022-12-12 14:20:00 :INFO :*******Test_order_006**************
 2022-12-12 14:20:09 :INFO :*******Login Successful******************
 2022-12-12 14:20:09 :INFO :*****************Starting search order test****************
+2022-12-12 14:24:30 :INFO :====== WebDriver manager ======
+2022-12-12 14:24:30 :INFO :Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-12-12 14:24:32 :INFO :There is no [win32] chromedriver for browser 107.0.5304 in cache
+2022-12-12 14:24:32 :INFO :About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip
+2022-12-12 14:24:33 :INFO :Driver has been saved in cache [C:\Users\prsha\.wdm\drivers\chromedriver\win32\107.0.5304]
+2022-12-12 14:24:35 :INFO :*******************Test_001_login******************************
+2022-12-12 14:24:35 :INFO :*****************verifying home page title *************************
+2022-12-12 14:24:37 :INFO :**************Home page Test case passed***********************
+2022-12-12 14:24:37 :INFO :====== WebDriver manager ======
+2022-12-12 14:24:38 :INFO :Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-12-12 14:24:39 :INFO :Driver [C:\Users\prsha\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-12-12 14:24:40 :INFO :***************Test login started*******************
+2022-12-12 14:24:51 :INFO :*************Test login passed***************
+2022-12-12 14:26:13 :INFO :====== WebDriver manager ======
+2022-12-12 14:26:14 :INFO :Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-12-12 14:26:15 :INFO :Driver [C:\Users\prsha\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-12-12 14:26:16 :INFO :***************Test login started*******************
+2022-12-12 14:26:35 :INFO :====== WebDriver manager ======
+2022-12-12 14:26:35 :INFO :Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-12-12 14:26:36 :INFO :Driver [C:\Users\prsha\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-12-12 14:26:38 :INFO :***************Test login started*******************
+2022-12-12 14:26:48 :INFO :*************Test login passed***************
+2022-12-12 14:28:29 :INFO :====== WebDriver manager ======
+2022-12-12 14:28:29 :INFO :Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-12-12 14:28:30 :INFO :Driver [C:\Users\prsha\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-12-12 14:28:32 :INFO :********Test_003_addcustomer*****************
+2022-12-12 14:28:35 :INFO :**************login successful****************
+2022-12-12 14:28:35 :INFO :**********starting add customer test case***************
+2022-12-12 14:28:38 :INFO :*******providing customer info********
+2022-12-12 14:28:43 :INFO :**********Customer added successfully*********************
+2022-12-12 14:28:43 :INFO :*************Ending Add customer test*******************
+2022-12-12 14:28:43 :INFO :====== WebDriver manager ======
+2022-12-12 14:28:44 :INFO :Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-12-12 14:28:44 :INFO :Driver [C:\Users\prsha\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-12-12 14:28:46 :INFO :***************Test login started*******************
+2022-12-12 14:28:56 :INFO :*************Test login passed***************
