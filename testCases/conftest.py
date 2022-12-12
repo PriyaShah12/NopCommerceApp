@@ -9,7 +9,9 @@ from webdriver_manager.microsoft import IEDriverManager, EdgeChromiumDriverManag
 @pytest.fixture()
 def setup(browser):
     if browser=='Chrome':
-        s = Service(ChromeDriverManager().install())
+        print("############################")
+        s= Service(executable_path="C:\\Priya_Dev\\chromedriver\\chromedriver.exe")
+        # s = Service(ChromeDriverManager().install())
         driver = webdriver.Chrome(service=s)
     elif browser =='Firefox':
         s = Service(executable_path=GeckoDriverManager().install())
@@ -40,7 +42,7 @@ def pytest_configure(config):
 
 
 #This hook is for delete/modify Environment info to the HTML Report
-@pytest.mark.optionalhook
+# @pytest.mark.optionalhook
 def pytest_metadata(metadata):
     metadata.pop("JAVA_HOME",None)
     metadata.pop("Plugins", None)

@@ -12,7 +12,7 @@ class Test_SearchCustomerByName_005:
     url=configRead.ReadUrl()
     logger=LogGen.loggen()
 
-    @pytest.mark.regression
+    # @pytest.mark.regression
     def test_searchbyname(self,setup):
         self.driver=setup
         self.logger.info("*************Test Search customer by name_005*******************")

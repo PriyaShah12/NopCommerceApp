@@ -4,6 +4,7 @@ from pageObject.LoginPage import Login
 from utilities.readproperties import configRead
 from utilities.customLogger import LogGen
 import time
+from selenium.webdriver.chrome.service import Service
 
 class Test_001_login:
     base_url=configRead.ReadUrl()
@@ -11,11 +12,14 @@ class Test_001_login:
     password=configRead.Readpassword()
     logger= LogGen.loggen()
 
-    @pytest.mark.regression
+    # @pytest.mark.regression
     def test_homepagetitle(self,setup):
         self.logger.info("*******************Test_001_login******************************")
         self.logger.info("*****************verifying home page title *************************")
         self.driver=setup
+        # s= Service(executable_path="C:\\Priya_Dev\\chromedriver\\chromedriver.exe")
+        # s = Service(ChromeDriverManager().install())
+        # self.driver = webdriver.Chrome(service=s)
         self.driver.get(self.base_url)
         act_title=self.driver.title
 
@@ -29,11 +33,12 @@ class Test_001_login:
             self.logger.error("****************Home Page test case failed**************************")
 
             assert False
-    @pytest.mark.sanity
-    @pytest.mark.regression
+    # @pytest.mark.sanity
+    # @pytest.mark.regression
     def test_login(self,setup):
         self.logger.info("***************Test login started*******************")
         self.driver=setup
+        # self.driver = webdriver.Chrome(service=s)
         self.driver.get(self.base_url)
         self.lp= Login(self.driver)
         self.lp.setUserName(self.username)

@@ -6,7 +6,7 @@ from selenium.webdriver.support.ui import Select
 class orderpage:
     link_sales_xpath="//a[@href='#']//p[contains(text(),'Sales')]"
     select_order_xpath="//a[@href='/Admin/Order/List']"
-    txtbox_startdate_xpath="//input[@id='StartDate']"
+    txtbox_startdate_xpath = "//input[@id='StartDate']"
     txtbox_enddate_xpath="//input[@id='EndDate']"
     drp_warehouseid_xpath="//select[@id='WarehouseId']"
     selectoption1="Warehouse 1 (New York)"
@@ -35,6 +35,7 @@ class orderpage:
 
     def setstartdate(self,date):
         self.driver.find_element(By.XPATH,self.txtbox_startdate_xpath).send_keys(date)
+
 
     def setenddate(self,date):
         self.driver.find_element(By.XPATH,self.txtbox_enddate_xpath).send_keys(date)

@@ -14,7 +14,7 @@ class Test_003_addcustomer:
     url=configRead.ReadUrl()
     logger=LogGen.loggen()
 
-    @pytest.mark.sanity
+    # @pytest.mark.sanity
     def test_addcustomer(self,setup):
         self.logger.info("********Test_003_addcustomer*****************")
         self.driver=setup

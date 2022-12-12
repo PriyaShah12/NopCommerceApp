@@ -25,18 +25,25 @@ class Test_searchorder_006:
         self.lp.setUserName(self.username)
         self.lp.setPassword(self.password)
         self.lp.clickLogin()
-
+        time.sleep(5)
         self.logger.info("*******Login Successful******************")
         self.logger.info("*****************Starting search order test****************")
-
-        #self.addcust=AddCustomer(self.driver) #Addcustomer object created
-        #self.addcust.menusearch()
+        assert "admin" in self.driver.current_url
+        # self.addcust=AddCustomer(self.driver) #Addcustomer object created
+        # self.addcust.menusearch()
 
         self.orderpg=orderpage(self.driver)
+        time.sleep(3)
         self.orderpg.clicksaleslink()
+        print("##############")
+        time.sleep(3)
         self.orderpg.clickorder()
-        self.orderpg.setstartdate("12/12/2021")
-        self.orderpg.setenddate("12/25/2021")
+        print("%%%%%%%%%%%%%%%%%")
+        time.sleep(3)
+        # assert self.driver.title =="Orders / nopCommerce administration"
+        assert "order" in self.driver.current_url
+        self.orderpg.setstartdate("12/12/2023")#################3
+        self.orderpg.setenddate("12/25/2023")
         self.orderpg.setwarehouse("Warehouse 1 (New York)")
         self.orderpg.setproduct("ABCD")
         self.orderpg.selectorder("Complete")

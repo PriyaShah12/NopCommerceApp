@@ -437,3 +437,282 @@
 2022-11-17 15:26:43 :INFO :Driver [C:\Users\prsha\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
 2022-11-17 15:26:45 :INFO :***************Test login started*******************
 2022-11-17 15:26:56 :INFO :*************Test login passed***************
+2022-12-08 15:18:23 :INFO :====== WebDriver manager ======
+2022-12-08 15:18:23 :INFO :Get LATEST driver version for latest
+2022-12-08 15:18:25 :INFO :There is no [win64] IEDriverServer for browser latest in cache
+2022-12-08 15:18:25 :INFO :Getting latest ie release info for 4.7.0
+2022-12-08 15:18:25 :INFO :About to download new driver from https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.7.0/IEDriverServer_Win32_4.7.0.zip
+2022-12-08 15:18:26 :INFO :Driver has been saved in cache [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest]
+2022-12-08 15:18:30 :INFO :====== WebDriver manager ======
+2022-12-08 15:18:30 :INFO :Get LATEST driver version for latest
+2022-12-08 15:18:31 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-08 15:18:35 :INFO :====== WebDriver manager ======
+2022-12-08 15:18:35 :INFO :Get LATEST driver version for latest
+2022-12-08 15:18:35 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-08 15:18:39 :INFO :====== WebDriver manager ======
+2022-12-08 15:18:39 :INFO :Get LATEST driver version for latest
+2022-12-08 15:18:39 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-08 15:18:43 :INFO :====== WebDriver manager ======
+2022-12-08 15:18:43 :INFO :Get LATEST driver version for latest
+2022-12-08 15:18:44 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-08 15:18:47 :INFO :====== WebDriver manager ======
+2022-12-08 15:18:48 :INFO :Get LATEST driver version for latest
+2022-12-08 15:18:48 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-08 15:18:52 :INFO :====== WebDriver manager ======
+2022-12-08 15:18:52 :INFO :Get LATEST driver version for latest
+2022-12-08 15:18:52 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-08 15:19:26 :INFO :====== WebDriver manager ======
+2022-12-08 15:19:26 :INFO :Get LATEST driver version for latest
+2022-12-08 15:19:27 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 10:26:44 :INFO :====== WebDriver manager ======
+2022-12-12 10:26:44 :INFO :Get LATEST driver version for latest
+2022-12-12 10:26:45 :INFO :Getting latest ie release info for 4.7.0
+2022-12-12 10:26:46 :INFO :About to download new driver from https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.7.0/IEDriverServer_Win32_4.7.0.zip
+2022-12-12 10:26:46 :INFO :Driver has been saved in cache [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest]
+2022-12-12 10:26:51 :INFO :====== WebDriver manager ======
+2022-12-12 10:26:51 :INFO :Get LATEST driver version for latest
+2022-12-12 10:26:51 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 10:26:55 :INFO :====== WebDriver manager ======
+2022-12-12 10:26:55 :INFO :Get LATEST driver version for latest
+2022-12-12 10:26:55 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 10:26:59 :INFO :====== WebDriver manager ======
+2022-12-12 10:26:59 :INFO :Get LATEST driver version for latest
+2022-12-12 10:26:59 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 10:27:03 :INFO :====== WebDriver manager ======
+2022-12-12 10:27:03 :INFO :Get LATEST driver version for latest
+2022-12-12 10:27:04 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 10:27:07 :INFO :====== WebDriver manager ======
+2022-12-12 10:27:08 :INFO :Get LATEST driver version for latest
+2022-12-12 10:27:09 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 10:27:12 :INFO :====== WebDriver manager ======
+2022-12-12 10:27:12 :INFO :Get LATEST driver version for latest
+2022-12-12 10:27:13 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 10:27:47 :INFO :====== WebDriver manager ======
+2022-12-12 10:27:47 :INFO :Get LATEST driver version for latest
+2022-12-12 10:27:48 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 10:55:41 :INFO :*******************Test_001_login******************************
+2022-12-12 10:55:41 :INFO :*****************verifying home page title *************************
+2022-12-12 10:55:44 :INFO :**************Home page Test case passed***********************
+2022-12-12 10:56:28 :INFO :*******************Test_001_login******************************
+2022-12-12 10:56:28 :INFO :*****************verifying home page title *************************
+2022-12-12 10:56:31 :INFO :**************Home page Test case passed***********************
+2022-12-12 11:15:47 :INFO :====== WebDriver manager ======
+2022-12-12 11:15:48 :INFO :Get LATEST driver version for latest
+2022-12-12 11:15:49 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 11:15:52 :INFO :====== WebDriver manager ======
+2022-12-12 11:15:53 :INFO :Get LATEST driver version for latest
+2022-12-12 11:15:53 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 11:15:57 :INFO :====== WebDriver manager ======
+2022-12-12 11:15:57 :INFO :Get LATEST driver version for latest
+2022-12-12 11:15:57 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 11:16:01 :INFO :====== WebDriver manager ======
+2022-12-12 11:16:01 :INFO :Get LATEST driver version for latest
+2022-12-12 11:16:02 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 11:16:05 :INFO :====== WebDriver manager ======
+2022-12-12 11:16:06 :INFO :Get LATEST driver version for latest
+2022-12-12 11:16:06 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 11:16:10 :INFO :====== WebDriver manager ======
+2022-12-12 11:16:10 :INFO :Get LATEST driver version for latest
+2022-12-12 11:16:10 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 11:16:14 :INFO :====== WebDriver manager ======
+2022-12-12 11:16:14 :INFO :Get LATEST driver version for latest
+2022-12-12 11:16:14 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 11:16:48 :INFO :====== WebDriver manager ======
+2022-12-12 11:16:48 :INFO :Get LATEST driver version for latest
+2022-12-12 11:16:49 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 11:33:32 :INFO :====== WebDriver manager ======
+2022-12-12 11:33:32 :INFO :Get LATEST driver version for latest
+2022-12-12 11:33:33 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 11:33:37 :INFO :====== WebDriver manager ======
+2022-12-12 11:33:37 :INFO :Get LATEST driver version for latest
+2022-12-12 11:33:38 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 11:33:42 :INFO :====== WebDriver manager ======
+2022-12-12 11:33:42 :INFO :Get LATEST driver version for latest
+2022-12-12 11:33:42 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 11:33:46 :INFO :====== WebDriver manager ======
+2022-12-12 11:33:46 :INFO :Get LATEST driver version for latest
+2022-12-12 11:33:46 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 11:33:50 :INFO :====== WebDriver manager ======
+2022-12-12 11:33:50 :INFO :Get LATEST driver version for latest
+2022-12-12 11:33:51 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 11:33:54 :INFO :====== WebDriver manager ======
+2022-12-12 11:33:54 :INFO :Get LATEST driver version for latest
+2022-12-12 11:33:55 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 11:33:58 :INFO :====== WebDriver manager ======
+2022-12-12 11:33:58 :INFO :Get LATEST driver version for latest
+2022-12-12 11:33:59 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 11:34:32 :INFO :====== WebDriver manager ======
+2022-12-12 11:34:32 :INFO :Get LATEST driver version for latest
+2022-12-12 11:34:33 :INFO :Driver [C:\Users\prsha\.wdm\drivers\IEDriverServer\win64\latest\IEDriverServer.exe] found in cache
+2022-12-12 11:36:27 :INFO :********Test_003_addcustomer*****************
+2022-12-12 11:36:31 :INFO :**************login successful****************
+2022-12-12 11:36:31 :INFO :**********starting add customer test case***************
+2022-12-12 11:36:36 :INFO :*******providing customer info********
+2022-12-12 11:36:41 :INFO :**********Customer added successfully*********************
+2022-12-12 11:36:41 :INFO :*************Ending Add customer test*******************
+2022-12-12 11:36:41 :INFO :*******************Test_001_login******************************
+2022-12-12 11:36:41 :INFO :*****************verifying home page title *************************
+2022-12-12 11:36:44 :INFO :**************Home page Test case passed***********************
+2022-12-12 11:36:45 :INFO :***************Test login started*******************
+2022-12-12 11:36:56 :INFO :*************Test login passed***************
+2022-12-12 11:36:57 :INFO :*******************Test_ddt_001_login******************************
+2022-12-12 11:36:57 :INFO :*****************verifying home page title *************************
+2022-12-12 11:36:58 :INFO :**************Home page Test case passed***********************
+2022-12-12 11:37:00 :INFO :***************Test login_DDT started*******************
+2022-12-12 11:37:10 :INFO :Test case passed
+2022-12-12 11:37:11 :INFO :DDT Case passed
+2022-12-12 11:37:13 :INFO :*******Test_order_006**************
+2022-12-12 11:37:18 :INFO :*******Login Successful******************
+2022-12-12 11:37:18 :INFO :*****************Starting search order test****************
+2022-12-12 11:37:20 :INFO :*************Test Search customer by email_004*******************
+2022-12-12 11:37:30 :INFO :*********Login Successful****************
+2022-12-12 11:37:33 :INFO :******Searching customer by emailID*****
+2022-12-12 11:37:34 :INFO :******clicking on search***************
+2022-12-12 11:37:37 :INFO :***********TC_searchcustomerbyemail_004 finished
+2022-12-12 11:37:38 :INFO :*************Test Search customer by name_005*******************
+2022-12-12 11:37:48 :INFO :*********Login Successful****************
+2022-12-12 11:37:50 :INFO :******Searching customer by name*****
+2022-12-12 11:37:53 :INFO :***********TC_searchcustomerbyname_005 finished
+2022-12-12 11:38:51 :INFO :********Test_003_addcustomer*****************
+2022-12-12 11:38:55 :INFO :**************login successful****************
+2022-12-12 11:38:55 :INFO :**********starting add customer test case***************
+2022-12-12 11:38:59 :INFO :*******providing customer info********
+2022-12-12 11:39:03 :INFO :**********Customer added successfully*********************
+2022-12-12 11:39:03 :INFO :*************Ending Add customer test*******************
+2022-12-12 11:39:05 :INFO :*******************Test_001_login******************************
+2022-12-12 11:39:05 :INFO :*****************verifying home page title *************************
+2022-12-12 11:39:06 :INFO :**************Home page Test case passed***********************
+2022-12-12 11:39:08 :INFO :***************Test login started*******************
+2022-12-12 11:39:32 :INFO :*************Test login passed***************
+2022-12-12 11:39:33 :INFO :*******************Test_ddt_001_login******************************
+2022-12-12 11:39:33 :INFO :*****************verifying home page title *************************
+2022-12-12 11:40:41 :INFO :*******************Test_001_login******************************
+2022-12-12 11:40:41 :INFO :*****************verifying home page title *************************
+2022-12-12 11:40:43 :INFO :**************Home page Test case passed***********************
+2022-12-12 11:40:44 :INFO :***************Test login started*******************
+2022-12-12 11:40:59 :INFO :*************Test login passed***************
+2022-12-12 11:41:56 :INFO :*******************Test_001_login******************************
+2022-12-12 11:41:56 :INFO :*****************verifying home page title *************************
+2022-12-12 11:41:58 :INFO :**************Home page Test case passed***********************
+2022-12-12 11:41:59 :INFO :***************Test login started*******************
+2022-12-12 11:42:09 :INFO :*************Test login passed***************
+2022-12-12 11:43:04 :INFO :*******************Test_ddt_001_login******************************
+2022-12-12 11:43:04 :INFO :*****************verifying home page title *************************
+2022-12-12 11:43:06 :INFO :**************Home page Test case passed***********************
+2022-12-12 11:43:07 :INFO :***************Test login_DDT started*******************
+2022-12-12 11:43:16 :INFO :Test case passed
+2022-12-12 11:43:17 :INFO :DDT Case passed
+2022-12-12 11:45:16 :INFO :*******************Test_ddt_001_login******************************
+2022-12-12 11:45:16 :INFO :*****************verifying home page title *************************
+2022-12-12 11:45:18 :INFO :**************Home page Test case passed***********************
+2022-12-12 11:45:19 :INFO :***************Test login_DDT started*******************
+2022-12-12 11:45:34 :INFO :Test case passed
+2022-12-12 11:45:35 :INFO :DDT Case passed
+2022-12-12 11:47:53 :INFO :*******************Test_ddt_001_login******************************
+2022-12-12 11:47:53 :INFO :*****************verifying home page title *************************
+2022-12-12 11:47:56 :INFO :**************Home page Test case passed***********************
+2022-12-12 11:47:57 :INFO :***************Test login_DDT started*******************
+2022-12-12 11:48:16 :INFO :Test case passed
+2022-12-12 11:48:20 :INFO :DDT Case passed
+2022-12-12 11:52:18 :INFO :*******************Test_ddt_001_login******************************
+2022-12-12 11:52:18 :INFO :*****************verifying home page title *************************
+2022-12-12 11:52:20 :INFO :**************Home page Test case passed***********************
+2022-12-12 12:00:37 :INFO :********Test_003_addcustomer*****************
+2022-12-12 12:00:42 :INFO :**************login successful****************
+2022-12-12 12:00:42 :INFO :**********starting add customer test case***************
+2022-12-12 12:00:49 :INFO :*******providing customer info********
+2022-12-12 12:00:53 :INFO :**********Customer added successfully*********************
+2022-12-12 12:00:53 :INFO :*************Ending Add customer test*******************
+2022-12-12 12:00:54 :INFO :*******************Test_001_login******************************
+2022-12-12 12:00:54 :INFO :*****************verifying home page title *************************
+2022-12-12 12:00:56 :INFO :**************Home page Test case passed***********************
+2022-12-12 12:00:58 :INFO :***************Test login started*******************
+2022-12-12 12:01:08 :INFO :*************Test login passed***************
+2022-12-12 12:01:09 :INFO :*******************Test_ddt_001_login******************************
+2022-12-12 12:01:09 :INFO :*****************verifying home page title *************************
+2022-12-12 12:01:11 :INFO :**************Home page Test case passed***********************
+2022-12-12 12:01:12 :INFO :*******Test_order_006**************
+2022-12-12 12:01:16 :INFO :*******Login Successful******************
+2022-12-12 12:01:16 :INFO :*****************Starting search order test****************
+2022-12-12 12:01:18 :INFO :*************Test Search customer by email_004*******************
+2022-12-12 12:01:27 :INFO :*********Login Successful****************
+2022-12-12 12:01:28 :INFO :******Searching customer by emailID*****
+2022-12-12 12:01:28 :INFO :******clicking on search***************
+2022-12-12 12:01:31 :INFO :***********TC_searchcustomerbyemail_004 finished
+2022-12-12 12:01:33 :INFO :*************Test Search customer by name_005*******************
+2022-12-12 12:01:43 :INFO :*********Login Successful****************
+2022-12-12 12:01:45 :INFO :******Searching customer by name*****
+2022-12-12 12:01:48 :INFO :***********TC_searchcustomerbyname_005 finished
+2022-12-12 12:06:28 :INFO :********Test_003_addcustomer*****************
+2022-12-12 12:06:33 :INFO :**************login successful****************
+2022-12-12 12:06:33 :INFO :**********starting add customer test case***************
+2022-12-12 12:06:37 :INFO :*******providing customer info********
+2022-12-12 12:06:41 :INFO :**********Customer added successfully*********************
+2022-12-12 12:06:41 :INFO :*************Ending Add customer test*******************
+2022-12-12 12:06:43 :INFO :*******************Test_001_login******************************
+2022-12-12 12:06:43 :INFO :*****************verifying home page title *************************
+2022-12-12 12:06:45 :INFO :**************Home page Test case passed***********************
+2022-12-12 12:06:46 :INFO :***************Test login started*******************
+2022-12-12 12:06:57 :INFO :*************Test login passed***************
+2022-12-12 12:06:58 :INFO :*******************Test_ddt_001_login******************************
+2022-12-12 12:06:58 :INFO :*****************verifying home page title *************************
+2022-12-12 12:07:00 :INFO :**************Home page Test case passed***********************
+2022-12-12 12:07:01 :INFO :*******Test_order_006**************
+2022-12-12 12:07:06 :INFO :*******Login Successful******************
+2022-12-12 12:07:06 :INFO :*****************Starting search order test****************
+2022-12-12 12:07:11 :INFO :*************Test Search customer by email_004*******************
+2022-12-12 12:07:20 :INFO :*********Login Successful****************
+2022-12-12 12:07:22 :INFO :******Searching customer by emailID*****
+2022-12-12 12:07:23 :INFO :******clicking on search***************
+2022-12-12 12:07:26 :INFO :***********TC_searchcustomerbyemail_004 finished
+2022-12-12 12:07:28 :INFO :*************Test Search customer by name_005*******************
+2022-12-12 12:07:37 :INFO :*********Login Successful****************
+2022-12-12 12:07:39 :INFO :******Searching customer by name*****
+2022-12-12 12:07:42 :INFO :***********TC_searchcustomerbyname_005 finished
+2022-12-12 12:08:34 :INFO :*******Test_order_006**************
+2022-12-12 12:08:38 :INFO :*******Login Successful******************
+2022-12-12 12:08:38 :INFO :*****************Starting search order test****************
+2022-12-12 12:10:32 :INFO :*******Test_order_006**************
+2022-12-12 12:10:36 :INFO :*******Login Successful******************
+2022-12-12 12:10:36 :INFO :*****************Starting search order test****************
+2022-12-12 12:14:48 :INFO :*******Test_order_006**************
+2022-12-12 12:14:53 :INFO :*******Login Successful******************
+2022-12-12 12:14:53 :INFO :*****************Starting search order test****************
+2022-12-12 12:39:38 :INFO :*******Test_order_006**************
+2022-12-12 12:39:48 :INFO :*******Login Successful******************
+2022-12-12 12:39:48 :INFO :*****************Starting search order test****************
+2022-12-12 12:41:18 :INFO :*******Test_order_006**************
+2022-12-12 12:41:21 :INFO :*******Login Successful******************
+2022-12-12 12:41:21 :INFO :*****************Starting search order test****************
+2022-12-12 12:44:18 :INFO :*******Test_order_006**************
+2022-12-12 12:44:23 :INFO :*******Login Successful******************
+2022-12-12 12:44:23 :INFO :*****************Starting search order test****************
+2022-12-12 12:45:56 :INFO :*******Test_order_006**************
+2022-12-12 12:46:00 :INFO :*******Login Successful******************
+2022-12-12 12:46:00 :INFO :*****************Starting search order test****************
+2022-12-12 12:48:04 :INFO :*******Test_order_006**************
+2022-12-12 12:48:09 :INFO :*******Login Successful******************
+2022-12-12 12:48:09 :INFO :*****************Starting search order test****************
+2022-12-12 12:49:50 :INFO :*******Test_order_006**************
+2022-12-12 12:49:56 :INFO :*******Login Successful******************
+2022-12-12 12:49:56 :INFO :*****************Starting search order test****************
+2022-12-12 12:52:28 :INFO :*******Test_order_006**************
+2022-12-12 12:52:32 :INFO :*******Login Successful******************
+2022-12-12 12:52:32 :INFO :*****************Starting search order test****************
+2022-12-12 12:53:52 :INFO :*******Test_order_006**************
+2022-12-12 12:53:56 :INFO :*******Login Successful******************
+2022-12-12 12:53:56 :INFO :*****************Starting search order test****************
+2022-12-12 12:58:00 :INFO :*************Test Search customer by email_004*******************
+2022-12-12 12:58:09 :INFO :*********Login Successful****************
+2022-12-12 12:58:11 :INFO :******Searching customer by emailID*****
+2022-12-12 12:58:11 :INFO :******clicking on search***************
+2022-12-12 12:58:14 :INFO :***********TC_searchcustomerbyemail_004 finished
+2022-12-12 14:17:30 :INFO :*******Test_order_006**************
+2022-12-12 14:17:40 :INFO :*******Login Successful******************
+2022-12-12 14:17:40 :INFO :*****************Starting search order test****************
+2022-12-12 14:19:08 :INFO :*******Test_order_006**************
+2022-12-12 14:19:17 :INFO :*******Login Successful******************
+2022-12-12 14:19:17 :INFO :*****************Starting search order test****************
+2022-12-12 14:20:00 :INFO :*******Test_order_006**************
+2022-12-12 14:20:09 :INFO :*******Login Successful******************
+2022-12-12 14:20:09 :INFO :*****************Starting search order test****************
